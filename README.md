@@ -23,7 +23,7 @@ We primarily answer all questions on our official Discord server or Youtube comm
 
 ### Minecraft server
 The Minecraft server runs on cracked Minecraft (Eaglercraft) 1.12.2. 
-###
+###  
 You can acess the Minecraft server using the link provided or the cracked server IP
 ### Link
     fjsurf uejsrg
