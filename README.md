@@ -1,1 +1,22 @@
-ss
+# SpuzlX
+
+
+### What is SpuzlX?
+SpuzlX is web proxy provider
+SpuzlX has deployed many web proxys like Dogeub, Interstellar, and even Utopia
+
+### Why use SpuzlX?
+SpuzlX is completly free and mostly add free
+SpuzlX has highly engaded devolopers reading every formum or question
+
+### Socials
+You can follow our organization
+
+    https://www.youtube.com/@GreenGru
+
+### Discord  (down right now)
+    Discord Server
+    
+
+### Questions? 
+We primarily answer all questions on our official Discord server or Youtube comments
