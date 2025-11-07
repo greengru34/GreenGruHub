@@ -4,7 +4,7 @@
 ### What is SpuzlX?
 - SpuzlX is web proxy hoster
 - SpuzlX has deployed many web proxys like Dogeub, Interstellar, and even Utopia
-- SpuzlX has also "cracked" many games like Minecraft
+- SpuzlX has also "cracked" many games like Minecraft and Cookie Clicker
 
 ### Why use SpuzlX?
 SpuzlX is completly free and mostly add free
