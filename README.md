@@ -7,20 +7,20 @@
 - SpuzlX has also "cracked" many games like Minecraft and Cookie Clicker
 
 ### Why use SpuzlX?
-SpuzlX is completly free and mostly add free
-SpuzlX has highly engaded devolopers reading every formum or question
+SpuzlX is completly free and ad free
+SpuzlX has highly engaged devolopers reading every forum or question
 
 ### Socials
 You can follow our official organization
 
     https://www.youtube.com/@GreenGru
 
-### Discord  (down right now)
+### Discord Server
     Discord Server
     
 
 ### Questions? 
-We primarily answer all questions on our official Discord server or Youtube comments
+We answer all questions on our official Discord server or Youtube comments
 
 ### Minecraft server
 - The Minecraft server runs on cracked Minecraft (Eaglercraft) 1.12.2. 
