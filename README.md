@@ -2,13 +2,13 @@
 
 
 ### What is GGH?
-- ggh is web proxy hoster
-- ggh has deployed many web proxys like Dogeub, Interstellar, and even Utopia
-- ghh has also "cracked" many games like Minecraft and Cookie Clicker
+- GGH is web proxy hoster
+- GGH has deployed many web proxys like Dogeub, Interstellar, and even Utopia
+- GGH has also "cracked" many games like Minecraft and Cookie Clicker
 
-### Why use ggh?
-ghh is completly free and ad free
-ggh has highly engaged devolopers reading every forum or question
+### Why use GGH?
+GGH is completly free and ad free
+GGH has highly engaged devolopers reading every forum or question
 
 ### Socials
 You can follow our official organization
