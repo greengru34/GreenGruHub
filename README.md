@@ -1,14 +1,14 @@
-# SpuzlX
+# ggh
 
 
-### What is SpuzlX?
-- SpuzlX is web proxy hoster
-- SpuzlX has deployed many web proxys like Dogeub, Interstellar, and even Utopia
-- SpuzlX has also "cracked" many games like Minecraft and Cookie Clicker
+### What is ggh?
+- ggh is web proxy hoster
+- ggh has deployed many web proxys like Dogeub, Interstellar, and even Utopia
+- ghh has also "cracked" many games like Minecraft and Cookie Clicker
 
-### Why use SpuzlX?
-SpuzlX is completly free and ad free
-SpuzlX has highly engaged devolopers reading every forum or question
+### Why use ggh?
+ghh is completly free and ad free
+ggh has highly engaged devolopers reading every forum or question
 
 ### Socials
 You can follow our official organization
